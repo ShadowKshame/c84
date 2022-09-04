@@ -43,7 +43,7 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-	//upload respective image with the message. 
+	
 
 }
 function numberkey()
